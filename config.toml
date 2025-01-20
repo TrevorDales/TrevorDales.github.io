@@ -7,6 +7,7 @@ description = "Walter is kind, caring and timid, but also demanding, calculating
 compile_sass = true
 minify_html = true
 
+# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 theme = "shadharon"
 taxonomies = [
@@ -19,7 +20,7 @@ highlight_theme = "css"
 
 [extra]
 toc = true
-use_cdn = false
+use_cdn = true
 search_bar = true
 
 #Full path after the base URL required. So if you were to place it in "static" it would be "/favicon.ico"
@@ -36,3 +37,6 @@ menu = [
 socials = [
     { name = "github", url = "https://github.com/syedzayyan/", icon = "github" },
 ]
+
+
+
