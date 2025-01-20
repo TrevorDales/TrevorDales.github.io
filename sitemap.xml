@@ -7,6 +7,37 @@
         <loc>https://TrevorDales.github.io/posts/</loc>
     </url>
     <url>
+        <loc>https://TrevorDales.github.io/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://TrevorDales.github.io/posts/test-copy-2/</loc>
+        <lastmod>2022-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://TrevorDales.github.io/posts/test-copy-3/</loc>
+        <lastmod>2022-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://TrevorDales.github.io/posts/test-copy-4/</loc>
+        <lastmod>2022-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://TrevorDales.github.io/posts/test-copy-5/</loc>
+        <lastmod>2022-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://TrevorDales.github.io/posts/test-copy-6/</loc>
+        <lastmod>2022-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://TrevorDales.github.io/posts/test-copy/</loc>
+        <lastmod>2022-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://TrevorDales.github.io/posts/test/</loc>
+        <lastmod>2022-01-01</lastmod>
+    </url>
+    <url>
         <loc>https://TrevorDales.github.io/projects/</loc>
     </url>
     <url>
@@ -17,5 +48,8 @@
     </url>
     <url>
         <loc>https://TrevorDales.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://TrevorDales.github.io/tags/thoughts/</loc>
     </url>
 </urlset>
