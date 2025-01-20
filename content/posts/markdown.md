@@ -2,8 +2,7 @@
 title = "Markdown Test"
 date = "2022-01-01"
 
-[taxonomies]
-tags = ["thoughts"]
+
 +++
 
 ## Code Block

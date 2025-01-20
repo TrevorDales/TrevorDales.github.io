@@ -1,19 +1,38 @@
-# The URL the site will be built for
-base_url = "https://trevordales.github.io./"
+#The nexessary stuff/decessary stuff
 
-# Whether to automatically compile all Sass files in the sass directory
+base_url = "https://TrevorDales.github.io"
+title = "Trevor Dales"
+description = "Walter is kind, caring and timid, but also demanding, calculating, and ruthless. His invented pseudonym, Heisenberg, becomes an alter ego – a fantasy for him to live out a love of power. Beneath both sides of his dual personality, he views the world in the rarefied scientific terms of chemistry."
+#generate_feed = true
 compile_sass = true
+minify_html = true
 
-# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
-
-
-
+theme = "shadharon"
+taxonomies = [
+    {name = "tags", feed = true},
+]
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
+highlight_theme = "css"
 
 [extra]
-# Put all your custom variables here
+toc = true
+use_cdn = false
+search_bar = true
+
+#Full path after the base URL required. So if you were to place it in "static" it would be "/favicon.ico"
+favicon = ""
+
+#This header image is used for SEO. For example if you were to share an image via Messenger/Instagram/Twitter a preview picture is also presented
+headerImage = ""
+
+# The icon is display besides the menu text but is not necessary. It needs to be placed under "menu_icon" in the static "folder"
+menu = [
+    { name = "Projects", url = "/projects", weight = 1, icon = "projects.png" },
+]
+#The icons available can be found in "social_icons" in the "static" folder
+socials = [
+    { name = "github", url = "https://github.com/syedzayyan/", icon = "github" },
+]
