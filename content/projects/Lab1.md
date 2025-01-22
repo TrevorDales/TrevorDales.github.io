@@ -7,7 +7,4 @@ tags = [" MAE 4190"]
 +++
 
 
-## Code tags
-
-Lorem ipsum `dolor` sit amet, `consectetur adipiscing` elit. 
-`Lorem ipsum dolor sit amet, consectetur adipiscing elit.`
+# Lab 1a
