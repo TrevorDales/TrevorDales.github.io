@@ -1,5 +1,8 @@
 +++
+paginate_by = 7
+
 title = "Projects"
-sort_by = "weight"
-template = "cards.html"
+sort_by = "date"
+
+
 +++

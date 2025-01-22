@@ -1,9 +1,10 @@
 +++
 paginate_by = 7
 
-title = "Articles"
+title = ""
 sort_by = "date"
 
 [extra]
-desc = {title = "Hello! I am Heisenberg", img = "https://hips.hearstapps.com/esq.h-cdn.co/assets/16/38/480x480/square-1474665651-breaking-bad.png?resize=640:*", text = "Walter is kind, caring and timid, but also demanding, calculating, and ruthless. His invented pseudonym, Heisenberg, becomes an alter ego – a fantasy for him to live out a love of power. Beneath both sides of his dual personality, he views the world in the rarefied scientific terms of chemistry."}
+desc = {title = "Hello! My name is Trevor.", img = "https://github.com/TrevorDales/TrevorDales.github.io/blob/main/Screenshot%202025-01-22%20134218.png?raw=true", text = "I am a third year mechanical engineering student at Cornell University. Following my interest in robotics, control systems, and aerospace, I have developed my skills as a member on the Cornell Rocketry Project Team."}
 +++
+
