@@ -26,6 +26,14 @@ Next, I tested some of the onboard sensors - first the temperature sensor:
 <br>
 
 And then the microphone:
+<br>
+<div align="center">
+
+ <iframe width="450" height="315" src="https://youtube.com/shorts/6gqOR4L8DFw"></iframe>
+
+##### Whistling at the board.
+
+</div>
 
 
 The above tests were performed using the following example sketches:
