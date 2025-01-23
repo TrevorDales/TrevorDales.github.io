@@ -26,3 +26,8 @@ Next, I tested some of the onboard sensors - first the temperature sensor:
 <br>
 
 And then the microphone:
+
+
+The above tests were performed using the following example sketches:
+- test
+- test
