@@ -13,7 +13,6 @@ In the first part of the lab, I established wired communication and control over
 
 Next, I tested some of the onboard sensors - first the temperature sensor:
 <br>
-<br>
 
 <img src="/tempgraph.png#start" alt="Rising Temperature Graph" style="display:block;">
 
@@ -29,13 +28,17 @@ And then the microphone:
 <br>
 <div align="center">
 
- <iframe width="450" height="315" src="https://youtube.com/shorts/6gqOR4L8DFw"></iframe>
+<iframe width="450" height="315" src="https://www.youtube.com/embed/q2iiDZBiHh4?si=QM6oFCRb_KnU8NPQ"></iframe>
+
 
 ##### Whistling at the board.
 
 </div>
+<br>
 
 
-The above tests were performed using the following example sketches:
-- test
-- test
+The above tests were performed using the following example sketches included in the Arduino IDE:
+- Basics_blink
+- Apollo3_serial
+- Apollo3_analogRead
+- PDM_microphoneOutput
