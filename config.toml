@@ -22,6 +22,8 @@ highlight_theme = "css"
 toc = false
 use_cdn = false
 search_bar = false
+markdown.content-inline-html = true
+
 
 #Full path after the base URL required. So if you were to place it in "static" it would be "/favicon.ico"
 favicon = ""
