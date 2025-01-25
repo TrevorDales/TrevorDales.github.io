@@ -1,9 +1,9 @@
 +++
 title = "Lab 1"
-date = "2025-01-25"
+date = "2025-01-26"
+weight = 4
 
-[taxonomies]
-tags = [" MAE 4190"]
+
 +++
 
 <br>
