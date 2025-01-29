@@ -25,6 +25,9 @@ In the first part of the lab, I established wired communication and control over
 ##### Blink Test
 
 </div>
+<br>
+<br>
+
 <div align = "center">
 
 <iframe width="175" height="315" 
@@ -45,7 +48,7 @@ In the first part of the lab, I established wired communication and control over
 Next, I tested some of the onboard sensors - first the temperature sensor:
 <br>
 
-<img src="/tempgraph.png#start" alt="Rising Temperature Graph" style="display:block;">
+<img src="/tempgraph.png" alt="Rising Temperature Graph" style="display:block ">
 
 <div align = "center">
 
@@ -87,5 +90,14 @@ The above tests were performed using the following example sketches included in 
 * Apollo3_analogRead
 * PDM_microphoneOutput
 
+
+<br>
+<br>
+
+## 1b
+The next part of the lab focused on establishing a wireless connection to the Artemis through BLE (Bluetooth Low Energy). I began by activating a virtual environment and starting a Jupyter server.
+
+<br>
+<img src="/VirtualEnvironmentSS.png" alt="Virtual Environment terminal screenshot" style="display:block ">
 
 

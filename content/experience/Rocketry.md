@@ -1,8 +1,8 @@
 +++
 title = "Cornell Rocketry"
-
+weight =1
 [extra]
-remote_image = "https://github.com/TrevorDales/TrevorDales.github.io/blob/main/static/javelina_test_launch_wide_crop.JPG?raw=true"
+remote_image = "/javelina_test_launch_wide_crop.JPG"
 +++
 
 test

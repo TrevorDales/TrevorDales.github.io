@@ -1,5 +1,5 @@
 +++
-title = "I'd love to hear from you!"
+title = "You can reach me at:"
 
 +++
 

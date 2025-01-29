@@ -33,12 +33,15 @@ headerImage = ""
 
 # The icon is display besides the menu text but is not necessary. It needs to be placed under "menu_icon" in the static "folder"
 menu = [
-    { name = "MAE 4190", url = "/experience", weight = 1, icon = "projects.png" },
-    { name = "Contact", url = "/contact/contact", weight = 1, icon = "resume.png" }
+    { name = "MAE 4190", url = "/MAE4190", weight = 1, icon = "projects.png" },
+    { name = "Contact", url = "/contact/contact", weight = 3, icon = "resume.png" }
+
 ]
 #The icons available can be found in "social_icons" in the "static" folder
 socials = [
     { name = "github", url = "https://github.com/TrevorDales", icon = "github" },
 ]
+
+# { name = "Experience", url = "/experience", weight = 2, icon = "projects.png" } 
 
 
