@@ -152,12 +152,12 @@ I then looped this code snipped to compare the sensor speed to the artemis clock
 # Final implementiation and plotting
 
 
-With all of my sensors now working, I next implemented functions in my Artemis code to collect data. By controlling whether these functions run using flags sent through commands, I have full control over when each sensor is active. Below are graphs of IMU and TOF data, all taken during the same time frame.
+With all of my sensors now working, I next implemented functions in my Artemis code to collect data. By controlling whether these functions run using flags sent through commands, I have full control over when each sensor is active. Below are graphs of IMU and TOF data, all taken during the same time frame. It's worth noting that the sampling rate of the TOF sensors is much slower than the IMU.
 
 
-<img src="/Lab3/lab3IMU.png" alt="Rising Temperature Graph" style="display:block ">
+<img src="/Lab3/lab3imu.png" alt="Rising Temperature Graph" style="display:block ">
 
-<img src="/Lab3/lab3TOF.png" alt="Rising Temperature Graph" style="display:block ">
+<img src="/Lab3/lab3tof.png" alt="Rising Temperature Graph" style="display:block ">
 
 
 # Collaboration
