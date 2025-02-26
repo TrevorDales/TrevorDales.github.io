@@ -265,4 +265,4 @@ This week, we received our cars! I was able to get it to flip by quickly deceler
 # Collaboration
 
 
-I worked with Jack Long and Lucca Correia extensively. I also referenced both Daria's website and Nila's website from last year for help implementing some of the filters. Lastly, I utilized ChatGPT for lots of debugging, and also to speed up writing plotting syntax.
+I worked with Jack Long and Lucca Correia extensively. I also referenced both Daria's website and Nila's website from last year for help implementing some of the filters. Lastly, I utilized ChatGPT for lots of error debugging, and also to speed up writing plotting syntax.
