@@ -260,3 +260,11 @@ Lastly, I implemented turning. Turning the wheels on each side in opposite direc
 ##### Turning and open loop control
 
 </div>
+
+<br>
+<br>
+
+# Collaboration
+
+
+I worked with Jack Long and Lucca Correia extensively. I also referenced Wenyi's website from last year for wiring help. 
