@@ -346,26 +346,29 @@ When tuning my controller, there were many parameters to consider:
 
 * u. While the control input comes from the PID controller and probably should not technically be changed, I found it an easy "hack" for getting closer to my desired filter behavior. This could probably be replicated by tweaking m and d, or perhaps I have a unit issue. However, I added a standalone scaling factor to my control input - it still came from my controller, but I just found that amplifying its value allowed it to have the desired effect on the predicted trajectory.
 
+With all of this in mind, I spent some time tuning my controller and KF. This was my final result: 
 
-<br>
-<br>
-
-
-
-
-
-EXAMPLE VID AND PIC
 <div align = "center">
 
-<iframe width="175" height="315" 
-    src="https://www.youtube.com/embed/v422ka4v5X8" 
+<iframe width="700" height="315" 
+    src="https://www.youtube.com/embed/jeKsp6g2Qd8" 
     frameborder="1" 
 
     allowfullscreen>
 </iframe>
 
-<img src="/Lab6/pdtuned.png" style="display:block ">
+<img src="/Lab7/final_kalman.png" style="display:block ">
 
-##### Kp = 6, Kd = 0.25, alpha = 0.01. Overshoot decreased even further!
+##### 
+
 </div>
+<br>
+<br>
 
+
+
+
+# Collaboration
+
+
+I worked with Jack Long and Lucca Correia extensively. I also referenced Stephan Wagner's site for sense checking my uncertainty values. Lastly, ChatGPT helped me make pretty plots and initialize matrices correctly in C.
