@@ -9,7 +9,7 @@ weight = 4
 
 <div align = "center">
 
-<table><tr><td><img src="/Lab8/close_finish_ref.jpg" width="250"></td><td><img src="/Lab8/close_finish.jpg" width="250"></td></tr></table>
+<table><tr><td><img src="/Lab8/close_finish_ref.JPG" width="250"></td><td><img src="/Lab8/close_finish.jpg" width="250"></td></tr></table>
 
 </div>
 
