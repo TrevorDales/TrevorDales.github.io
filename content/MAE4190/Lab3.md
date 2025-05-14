@@ -1,5 +1,5 @@
 +++
-title = "Lab 3"
+title = "Lab 3: Time of Flight Sensor"
 date = "2025-02-25"
 weight = 4
 

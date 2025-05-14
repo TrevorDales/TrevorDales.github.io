@@ -1,5 +1,5 @@
 +++
-title = "Lab 8"
+title = "Lab 8: Stunts with Kalman Filtering"
 date = "2025-04-08"
 weight = 4
 

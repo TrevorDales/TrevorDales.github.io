@@ -1,5 +1,5 @@
 +++
-title = "Lab 12"
+title = "Lab 12: Planning and Execution"
 date = "2025-05-14"
 weight = 6
 +++

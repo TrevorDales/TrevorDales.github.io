@@ -1,5 +1,5 @@
 +++
-title = "Lab 1"
+title = "Lab 1: Artemis and Bluetooth"
 date = "2025-01-30"
 weight = 4
 

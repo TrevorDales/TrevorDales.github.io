@@ -1,5 +1,5 @@
 +++
-title = "Lab 10"
+title = "Lab 10: Localization (sim)"
 date = "2025-04-28"
 weight = 6
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Lab 4"
+title = "Lab 4: Motor Drivers"
 date = "2025-03-04"
 weight = 4
 

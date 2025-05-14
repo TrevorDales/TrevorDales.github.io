@@ -1,5 +1,5 @@
 +++
-title = "Lab 6"
+title = "Lab 6: Orientation PID Control"
 date = "2025-03-19"
 weight = 4
 

@@ -1,5 +1,5 @@
 +++
-title = "Lab 9"
+title = "Lab 9: Mapping with ToF Sensors"
 date = "2025-04-15"
 weight = 5
 +++

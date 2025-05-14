@@ -1,5 +1,5 @@
 +++
-title = "Lab 2"
+title = "Lab 2: Inertial Measurement Unit"
 date = "2025-02-11"
 weight = 4
 
